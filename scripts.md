@@ -2,9 +2,9 @@ In this document, I am trying to explain some of scripts for taking easy and get
 
 ### Scripts on terminal
 | Type | Command |
-|-|-|-|
-|Copy clipboard|`'alias cpwd="pwd | tr -d '\n' | pbcopy && echo 'pwd copied to clipboard'`|
-|Find text in path's folder|`'alias ftext="grep -rnw $1 -e '$2'"`|
+| ------ | ------ |
+| Copy clipboard | `'alias cpwd="pwd | tr -d '\n' | pbcopy && echo 'pwd copied to clipboard'` |
+| Find text in path's folder | `'alias ftext="grep -rnw $1 -e '$2'"` |
 
 > **Note:** You should add to **~/.bashrc** file that described all of scripts above
 
