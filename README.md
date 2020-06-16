@@ -6,6 +6,6 @@ i will try to share source links and refer to cross platform development tools
 
 introduce those on topics:
  - [extensions](https://github.com/gtarim/linux-developer-extensions/blob/master/gnome-extensions.md)
- -  [extensions](https://github.com/gtarim/linux-developer-extensions/blob/master/scripts.md)
+ - [scripts](https://github.com/gtarim/linux-developer-extensions/blob/master/scripts.md)
  - apps
 
