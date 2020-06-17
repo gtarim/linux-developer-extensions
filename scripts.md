@@ -27,4 +27,12 @@ This is common problem for mouse hater people. If you wonder to do it follow the
 	 F12 Terminal
 	 ```
 - Now it will work ! If you want to check right click on nautilus, you will see the your script at there.
-	 
+
+### Enabling nautilus typeahead find	 
+
+If you want to search a file to be just selected. This is common usage on Ubuntu 16.04. For doing this please follow below commands on terminal. 
+
+```sh
+sudo add-apt-repository ppa:lubomir-brindza/nautilus-typeahead
+sudo apt dist-upgrade
+```
