@@ -14,8 +14,9 @@ In this document, I am trying to explain some of apps for using on terminal and 
 | minicom | console serial manager |
 | net-tools | console basic network manager |
 | vooya | raw rgb/yuv video player |
+| ffmpeg | fast video and audio converter |
 
-> **To run on ubuntu:** sudo apt install vscode vim vifm htop nload wireshark vlc terminator minicom net-tools
+> **To run on ubuntu:** sudo apt install vscode vim vifm htop nload wireshark vlc terminator minicom net-tools ffmpeg
 
 > **To download tp ubuntu:** 
 > vooya = https://www.offminor.de/downloads.html
